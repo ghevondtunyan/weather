@@ -6,7 +6,7 @@ import CssBaseline from "@material-ui/core/CssBaseline";
 
 const api = {
   key: "feb3f9c68c76bea2bc5cc18463bb265e",
-  base: "http://api.openweathermap.org/data/2.5/",
+  base: "https://api.openweathermap.org/data/2.5/",
 };
 export default function Main() {
   const [city, setCity] = useState("Yerevan");
