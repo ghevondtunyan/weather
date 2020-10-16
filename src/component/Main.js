@@ -27,9 +27,9 @@ export default function Main() {
         '"Segoe UI Emoji"',
         '"Segoe UI Symbol"',
       ].join(","),
-      fontSize: 10,
+      fontSize: 14,
       h5: {
-        fontWeight: 400,
+        fontWeight: 500,
       },
     },
   });
